@@ -403,9 +403,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=275
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWl7hGaS-xmMYGSPAJR5ZRFuFjzP7j7p70qA&usqp=CAU" group-title="Without category", Channel_158
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=279
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWl7hGaS-xmMYGSPAJR5ZRFuFjzP7j7p70qA&usqp=CAU" group-title="Without category", Channel_159
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=283
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWl7hGaS-xmMYGSPAJR5ZRFuFjzP7j7p70qA&usqp=CAU" group-title="Without category", Channel_160
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=286
 
@@ -481,32 +478,17 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=450
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWl7hGaS-xmMYGSPAJR5ZRFuFjzP7j7p70qA&usqp=CAU" group-title="Without category", Channel_187
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=451
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWl7hGaS-xmMYGSPAJR5ZRFuFjzP7j7p70qA&usqp=CAU" group-title="Without category", Channel_188
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=453
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWl7hGaS-xmMYGSPAJR5ZRFuFjzP7j7p70qA&usqp=CAU" group-title="Without category", Channel_189
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=452
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWl7hGaS-xmMYGSPAJR5ZRFuFjzP7j7p70qA&usqp=CAU" group-title="Without category", Channel_190
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=454
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWl7hGaS-xmMYGSPAJR5ZRFuFjzP7j7p70qA&usqp=CAU" group-title="Without category", Channel_191
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=455
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWl7hGaS-xmMYGSPAJR5ZRFuFjzP7j7p70qA&usqp=CAU" group-title="Without category", Channel_192
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=456
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWl7hGaS-xmMYGSPAJR5ZRFuFjzP7j7p70qA&usqp=CAU" group-title="Without category", Channel_193
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=457
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWl7hGaS-xmMYGSPAJR5ZRFuFjzP7j7p70qA&usqp=CAU" group-title="Without category", Channel_194
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=459
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWl7hGaS-xmMYGSPAJR5ZRFuFjzP7j7p70qA&usqp=CAU" group-title="Without category", Channel_195
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=460
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWl7hGaS-xmMYGSPAJR5ZRFuFjzP7j7p70qA&usqp=CAU" group-title="Without category", Channel_196
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=461
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWl7hGaS-xmMYGSPAJR5ZRFuFjzP7j7p70qA&usqp=CAU" group-title="Without category", Channel_197
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=465
@@ -538,17 +520,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=476
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWl7hGaS-xmMYGSPAJR5ZRFuFjzP7j7p70qA&usqp=CAU" group-title="Without category", Channel_206
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=475
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWl7hGaS-xmMYGSPAJR5ZRFuFjzP7j7p70qA&usqp=CAU" group-title="Without category", Channel_207
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=477
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWl7hGaS-xmMYGSPAJR5ZRFuFjzP7j7p70qA&usqp=CAU" group-title="Without category", Channel_208
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=479
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWl7hGaS-xmMYGSPAJR5ZRFuFjzP7j7p70qA&usqp=CAU" group-title="Without category", Channel_209
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=480
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWl7hGaS-xmMYGSPAJR5ZRFuFjzP7j7p70qA&usqp=CAU" group-title="Without category", Channel_210
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=484
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWl7hGaS-xmMYGSPAJR5ZRFuFjzP7j7p70qA&usqp=CAU" group-title="Without category", Channel_211
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=489
@@ -588,12 +561,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=520
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWl7hGaS-xmMYGSPAJR5ZRFuFjzP7j7p70qA&usqp=CAU" group-title="Without category", Channel_223
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=521
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWl7hGaS-xmMYGSPAJR5ZRFuFjzP7j7p70qA&usqp=CAU" group-title="Without category", Channel_224
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=522
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWl7hGaS-xmMYGSPAJR5ZRFuFjzP7j7p70qA&usqp=CAU" group-title="Without category", Channel_225
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=523
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWl7hGaS-xmMYGSPAJR5ZRFuFjzP7j7p70qA&usqp=CAU" group-title="Without category", Channel_226
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=533
@@ -706,15 +673,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=592
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWl7hGaS-xmMYGSPAJR5ZRFuFjzP7j7p70qA&usqp=CAU" group-title="Without category", Channel_263
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWl7hGaS-xmMYGSPAJR5ZRFuFjzP7j7p70qA&usqp=CAU" group-title="Without category", Channel_265
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=597
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWl7hGaS-xmMYGSPAJR5ZRFuFjzP7j7p70qA&usqp=CAU" group-title="Without category", Channel_266
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=598
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWl7hGaS-xmMYGSPAJR5ZRFuFjzP7j7p70qA&usqp=CAU" group-title="Without category", Channel_267
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=602
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWl7hGaS-xmMYGSPAJR5ZRFuFjzP7j7p70qA&usqp=CAU" group-title="Without category", Channel_268
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=601
 
@@ -798,24 +756,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=647
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWl7hGaS-xmMYGSPAJR5ZRFuFjzP7j7p70qA&usqp=CAU" group-title="Without category", Channel_296
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWl7hGaS-xmMYGSPAJR5ZRFuFjzP7j7p70qA&usqp=CAU" group-title="Without category", Channel_297
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=662
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWl7hGaS-xmMYGSPAJR5ZRFuFjzP7j7p70qA&usqp=CAU" group-title="Without category", Channel_298
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=649
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWl7hGaS-xmMYGSPAJR5ZRFuFjzP7j7p70qA&usqp=CAU" group-title="Without category", Channel_299
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=663
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWl7hGaS-xmMYGSPAJR5ZRFuFjzP7j7p70qA&usqp=CAU" group-title="Without category", Channel_300
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=661
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWl7hGaS-xmMYGSPAJR5ZRFuFjzP7j7p70qA&usqp=CAU" group-title="Without category", Channel_302
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=665
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWl7hGaS-xmMYGSPAJR5ZRFuFjzP7j7p70qA&usqp=CAU" group-title="Without category", Channel_304
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=666
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWl7hGaS-xmMYGSPAJR5ZRFuFjzP7j7p70qA&usqp=CAU" group-title="Without category", Channel_305
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=679
