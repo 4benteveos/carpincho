@@ -1,14 +1,9 @@
 
 #EXTM3U 
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-w3BIhImK3PM/YKLYqeFgJlI/AAAAAAABCXk/cJQItXH6BeII2A19RmryccG1o54twOSvACK8BGAsYHg/s512/2021-05-17.jpg" group-title="NACIONALES", La Red
-https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8  
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Kry6_WnfdJJD6Hrsp0HxRpoSq4oj4h39oRW2klUNb7-DX3Q8YKJ2EWmYf0vxX6OHMKfQ4iZJZw=s176-c-k-c0x00ffffff-no-rj" group-title="NACIONALES", 24 Horas - TVN Chile  
+https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCTXNz3gjAypWp3EhlIATEJQ.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61f94a2866401100074e9dee/colorLogoPNG.png" group-title="NOTICIAS", Chilevision Noticias
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61f94a2866401100074e9dee/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61f94a2866401100074e9dee/colorLogoPNG.png" group-title="NACIONALES", CHV Contigo
-https://siloh-latam-aka.plutotv.net/lilo/production/ChileVisionContigo/VE/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-w3BIhImK3PM/YKLYqeFgJlI/AAAAAAABCXk/cJQItXH6BeII2A19RmryccG1o54twOSvACK8BGAsYHg/s512/2021-05-17.jpg" group-title="NACIONALES", La Red   
 https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
@@ -16,34 +11,36 @@ https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1233735970694029318/UulSTC05_400x400.jpg" group-title="NACIONALES", Mega
 https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/DivHQWmzs3uHKZQfk6BiMnVMHsIU72dWLh0X5rEh4caNkYkfEV-T3nJGDx7mplosBW498zLuLi4=s176-c-k-c0x00ffffff-no-rj" group-title="NACIONALES", Meganoticias
+https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCkccyEbqhhM3uKOI6Shm-4Q.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/msZfirXu17cpZoIrWX-Q5tJjBmwdJSbtilrQe7bCNFmpvkG9CKY7hqOj8PuU2cEJ-jds7Z2aFA=s176-c-k-c0x00ffffff-no-rj" group-title="NACIONALES", CHV Noticias
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61f94a2866401100074e9dee/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1283856690648096770/L-vGlyO4_400x400.png" group-title="NACIONALES", UCV 
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/87c6e7bb59c33bfab71e154181716e90.png" group-title="NACIONALES", UCV 2   
 https://unlimited10-cl.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1521363358301233152/YcrFjQiB_400x400.jpg" group-title="NOTICIAS", T13
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJWlnvQLsUSWJ58Yq38W7lSVPdAje3cq7Tb9SbbOkQ=s176-c-k-c0x00ffffff-no-rj" group-title="NACIONALES", Canal 13   
+https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCd4D3LfXC_9MY2zSv_3gMgw.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1521363358301233152/YcrFjQiB_400x400.jpg" group-title="NACIONALES", T13
 https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1504067331789627400/RcQhCPZ3_400x400.jpg" group-title="NACIONALES", 13 Entretencion
-https://unlimited1-cl-isp.dps.live/13e/13e.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1410414449299800064/ZT1Pypbm_400x400.jpg" group-title="NACIONALES", ADN TV 
+https://unlimited1-us.dps.live/adntv/adntv.smil/playlist.m3u8  
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1504067331789627400/RcQhCPZ3_400x400.jpg" group-title="NACIONALES", 13 Prime
-https://unlimited2-cl-isp.dps.live/13p/13p.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Telecanal_-_2011_logo_%283D_variant%29.png/150px-Telecanal_-_2011_logo_%283D_variant%29.png" group-title="NACIONALES", Telecanal
+https://unlimited2-cl-isp.dps.live/tctc/tctc.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1504067331789627400/RcQhCPZ3_400x400.jpg" group-title="NACIONALES", 13 Teleseries
-https://unlimited1-cl-isp.dps.live/13t/13t.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1504067331789627400/RcQhCPZ3_400x400.jpg" group-title="NACIONALES", 13 Cultura   
-https://unlimited2-cl-isp.dps.live/13cultura/13cultura.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1410414449299800064/ZT1Pypbm_400x400.jpg" group-title="NOTICIAS", ADN TV 
-https://unlimited1-us.dps.live/adntv/adntv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45154_PinguinoTV.png" group-title="NACIONALES", EL PINGUINO TV CHILE
+https://streaming.elpinguino.com:5391/live/EP.smil/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-8bGAVjbmdQo/Xlxxov1VBvI/AAAAAAAAwhU/ZO0JPjy4MaI7lGElqofGQbkOr52Hk1nUQCK8BGAsYHg/s0/2020-03-01.png" group-title="ENTRETENIMIENTO", CHV Contigo   
-https://siloh-latam-aka.plutotv.net/lilo/production/ChileVisionContigo/VE/master.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/3cc1950b0f0c4ad15752bd5b6646fdf6.png" group-title="MUSICA", 38TV   
 https://v2.tustreaming.cl:19360/38tv/38tv.m3u8
@@ -105,11 +102,11 @@ https://unlimited1-cl-isp.dps.live/canal2/canal2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-G3a4EWWVHDM/YLwWdi2a_KI/AAAAAAABCt8/9O8xWNi1f_UbcvwqCXhAHEvJhcrgSF2lwCJEEGAsYHg/s512/2021-06-05.jpg" group-title="REGIONALES", Canal 21 Chillán   
 https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/1378_Canal_5_Los_Vilos.png" group-title="REGIONALES", Canal 5 LOS TILOS   
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/1378_Canal_5_Los_Vilos.png" group-title="REGIONALES", Canal 5 Los Vilos  
 https://oracle.streaminghd.cl/canal5/canal5/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/bf21f73eb125d689b3362c7af6f25887.png" group-title="REGIONALES", Canal 5 Puerto Montt   
-https://srv2.zcast.com.br/canal5tv/canal5tv/playlist.m3u8
+https://srv2.zcast.com.br/canal5tv/canal5tv/playlist.m3u8Canal 5 Los Vilos
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/142f64e0f0f7392e87b0f08fe9220039.png" group-title="REGIONALES", Canal 57 Melipilla   
 https://593b04c4c5670.streamlock.net:443/8148/8148/playlist.m3u8
@@ -184,6 +181,9 @@ https://streaming.elpinguino.com:5391/live/EP.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-gDK3j68Mc6o/YFYnQ_VgDyI/AAAAAAABAy0/COi6QK7t40UXPZuYPWHnOwi61yO0QRVUwCK8BGAsYHg/s512/2021-03-20.jpg" group-title="REGIONALES", Ekiz TV   
 http://live.mundogo.cl/mundo/EquizTV/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/1391_En_la_Noticia.png" group-title="RADIO", En la Noticia  
+https://live.chileservidores.com:8081/chiloetwo/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/cb6d3df7e55e32e5c786962a1fa742cd.png" group-title="RADIO", EnerGeek Radio  
 https://stream.wifiexpert.cl/energeek/radio/playlist.m3u8
@@ -352,6 +352,9 @@ https://pnt.janusmedia.tv/hls/pnt.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/967_Quillayino_TV.png" group-title="RELIGIOSO", Quillayino TV CHILE
 https://paneltv.online:1936/8150/8150/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/1389_Radio_Acogida.png" group-title="RADIO", Radio Acogida
+https://live.chileservidores.com:8081/chiloethree/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.paste.pics/687ecc337e240f54484f1869b8022a9f.png" group-title="RADIO", Radio Area Bpm
 https://hostv7.tvestacion7.com:3862/hybrid/play.m3u8
 
@@ -486,6 +489,9 @@ https://tv.tvcontrolcp.com:1936/costatv1/costatv1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-uohfVTgGqkU/XrmveWQiUXI/AAAAAAAA0oQ/Bn7Ad9_7KMY6oMCjD2UJi_cp-8ynyLYSQCK8BGAsYHg/s0/2020-05-11.png" group-title="REGIONALES", TV Elqui   
 https://paneltv.online:1936/8056/8056/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/1390_TV_Emanuel.png" group-title="RELIGIOSO", TV Emanuel 
+https://mediacpstreamchile.com:1936/ministerio/ministerio/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/2c015266869a8e163cc42bd1a0808834.png" group-title="REGIONALES", TV Quinta Region   
 https://mediacpstreamchile.com:1936/8002/8002/playlist.m3u8
 
@@ -555,10 +561,8 @@ https://mediacpstreamchile.com:1936/8044/8044/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-M6IkTdk74v8/YEDQ8Yaj8sI/AAAAAAABAg0/0AX-YP_ERfco4p51TJDf3a0-cmAFLb6rgCK8BGAsYHg/s512/2021-03-04.png" group-title="RELIGIOSO", Vida TV   
 http://181.224.64.2:89/vidatv/index.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-kA-YUEjBEoc/XygP_iR0ZzI/AAAAAAAA3sI/mMsFytWSPV4dziqhZQtA6X0GmhEIrmrpQCK8BGAsYHg/s0/2020-08-03.png" group-title="REGIONALES", Vision TV   
 https://5cf4a2c2512a2.streamlock.net:443/8184/8184/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png" group-title="MUSICA", Viwix TV Music  
 https://s2.tvdatta.com:3548/hybrid/play.m3u8
