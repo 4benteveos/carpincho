@@ -52,7 +52,7 @@ https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8   
 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/telefe.jpg" group-title="NACIONALES", TELEFE  34.1 OPCION 2
-https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8 
+http://tvstarlife.com:25461/live/geovany/geovany/315.m3u8
 
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_13.jpg" group-title="NACIONALES", CANAL 13  33.1 
 http://tvstarlife.com:25461/live/geovany/geovany/287.m3u8
