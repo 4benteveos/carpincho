@@ -738,7 +738,7 @@ https://stmvideo1.livecastv.com/libertad/libertad/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1455005318002266117/LyDuNBH7_400x400.jpg" group-title="ENTRE RIOS", CANAL 9 PARANA
 https://stream.arcast.live/ahora/ahora/playlist.m3u8
-
+ 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Canalsiete-nqn-logo.png" group-title="NEUQUEN", CANAL 7 NEUQUEN
 https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
 
