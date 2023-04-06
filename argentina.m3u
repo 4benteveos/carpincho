@@ -351,7 +351,98 @@ https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", Telefe
+https://cotesma02.cdn.rcs.net.ar/mnp/telefe/output.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", MasChic
+https://cotesma02.cdn.rcs.net.ar/mnp/maschic/output.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", TruTV 
+https://cotesma02.cdn.rcs.net.ar/mnp/trutv/output.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", Disney Channel 
+https://cotesma02.cdn.rcs.net.ar/mnp/disney/output.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", Disney XD 
+https://cotesma02.cdn.rcs.net.ar/mnp/disneyxd/output.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", Disney Junior 
+https://cotesma02.cdn.rcs.net.ar/mnp/disneyjr/output.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", Nick 
+https://cotesma02.cdn.rcs.net.ar/mnp/nickelodeon/output.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", Nick Jr 
+https://cotesma02.cdn.rcs.net.ar/mnp/nickjr/output.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO",Tooncast 
+https://cotesma02.cdn.rcs.net.ar/mnp/tooncast/output.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", Baby TV 
+https://cotesma02.cdn.rcs.net.ar/mnp/babytv/output.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", Cartoonito
+https://cotesma02.cdn.rcs.net.ar/mnp/boomerang/output.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", A&E
+https://cotesma02.cdn.rcs.net.ar/mnp/ae/output.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", Cinemax
+https://cotesma02.cdn.rcs.net.ar/mnp/cinemax/output.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", Cinecanal 
+https://cotesma02.cdn.rcs.net.ar/mnp/cinecanal/output.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO",TNT 
+https://cotesma02.cdn.rcs.net.ar/mnp/tnt/output.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO",TNT Series 
+https://cotesma02.cdn.rcs.net.ar/mnp/tntseries/output.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", AXN
+https://cotesma02.cdn.rcs.net.ar/mnp/axn/output.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", AMC
+https://cotesma02.cdn.rcs.net.ar/mnp/amc/output.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", SYFY 
+https://cotesma02.cdn.rcs.net.ar/mnp/syfy/output.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", FX
+https://cotesma02.cdn.rcs.net.ar/mnp/fx/output.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", FXM
+https://cotesma02.cdn.rcs.net.ar/mnp/fxm/output.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", Space
+https://cotesma02.cdn.rcs.net.ar/mnp/space/output.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", Paramount Network 
+https://cotesma02.cdn.rcs.net.ar/mnp/paramount/output.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", Sony 
+https://cotesma02.cdn.rcs.net.ar/mnp/sony/output.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", Tbs
+https://cotesma02.cdn.rcs.net.ar/mnp/tbs/output.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", Universal 
+https://cotesma02.cdn.rcs.net.ar/mnp/universal/output.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", Warner 
+https://cotesma02.cdn.rcs.net.ar/mnp/warner/output.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", TCM
+https://cotesma02.cdn.rcs.net.ar/mnp/tcm/output.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", Cine Ar
+https://cotesma02.cdn.rcs.net.ar/mnp/cinear/output.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", History 
+https://cotesma02.cdn.rcs.net.ar/mnp/history/output.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", History 2
+https://cotesma02.cdn.rcs.net.ar/mnp/h2/output.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", Discovery 
+https://cotesma02.cdn.rcs.net.ar/mnp/discovery/output.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", Isat
+https://cotesma02.cdn.rcs.net.ar/mnp/isat/output.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", HBO
+https://cotesma02.cdn.rcs.net.ar/mnp/hbo/output.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", HBO2
+https://cotesma02.cdn.rcs.net.ar/mnp/hbo2/output.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", HBO PLUS
+https://cotesma02.cdn.rcs.net.ar/mnp/hboplus/output.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", HBO FAMILY 
+https://cotesma02.cdn.rcs.net.ar/mnp/hbofam/output.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", HBO SIGNATURE
+https://cotesma02.cdn.rcs.net.ar/mnp/hbosig/output.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", HBO XTREME 
+https://cotesma02.cdn.rcs.net.ar/mnp/hboxtr/output.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", HBO MUNDO
+https://cotesma02.cdn.rcs.net.ar/mnp/hbomund/output.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", HBO POP
+https://cotesma02.cdn.rcs.net.ar/mnp/hbopop/output.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", HTV
+https://cotesma02.cdn.rcs.net.ar/mnp/htv/output.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", MTV 
+https://cotesma02.cdn.rcs.net.ar/mnp/mtv/output.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", TNT Sport
+https://cotesma02.cdn.rcs.net.ar/mnp/tntsports/output.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", Golf
+https://cotesma02.cdn.rcs.net.ar/mnp/golf/output.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", El Gourmet 
+https://cotesma02.cdn.rcs.net.ar/mnp/gourmet/output.mpd
 
 
 
