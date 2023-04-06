@@ -19,7 +19,7 @@ https://videostream.shockmedia.com.ar:19360/fmlapoderosaavellaneda01/fmlapoderos
 https://videosenlared.fullstreaming.ar:3501/live/grupocitylive.m3u8
 
 #EXTINF:-1 tvg-logo="https://tribunoweb.com.ar/wp-content/uploads/2021/05/pluto-tv-telefe-tvlaint.jpg" group-title="FUTBOL ARG", TELEFE DEPORTES
-https://stitcher.pluto.tv/stitch/hls/channel/638df7f42b4fea0007f8af98livestitch/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=847de5e0-a85c-11ed-a617-56aedc2a3c0a
+https://stitcher.pluto.tv/stitch/hls/channel/638df7f42b4fea0007f8af98/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=847de5e0-a85c-11ed-a617-56aedc2a3c0a
 
 
 
@@ -230,7 +230,7 @@ https://linear-256.frequency.stream/dist/vix/256/hls/master/playlist.m3u8
 https://stitcher.pluto.tv/stitch/hls/channel/63c6e37e636b7e0007ccb635/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=847de5e0-a85c-11ed-a617-56aedc2a3c0a
 
 #EXTINF:-1 tvg-logo="https://tribunoweb.com.ar/wp-content/uploads/2021/05/pluto-tv-telefe-tvlaint.jpg" group-title="EVENTOS DEPORTIVOS", TELEFE DEPORTES
-https://stitcher.pluto.tv/stitch/hls/channel/638df7f42b4fea0007f8af98livestitch/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=847de5e0-a85c-11ed-a617-56aedc2a3c0a
+https://stitcher.pluto.tv/stitch/hls/channel/638df7f42b4fea0007f8af98/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=847de5e0-a85c-11ed-a617-56aedc2a3c0a
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62d816fcf24d280008762ee9/colorLogoPNG.png" group-title="EVENTOS DEPORTIVOS", La Liga Premier
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d816fcf24d280008762ee9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
