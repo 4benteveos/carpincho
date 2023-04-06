@@ -705,6 +705,8 @@ https://ythls.onrender.com/channel/UCowbI8idnvQTl2sFxkOvnKw.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fLSCZFj1/624-Elsiete.png" group-title="MENDOZA", EL SIETE MENDOZA
 https://ythls.onrender.com/channel/UC64ZNqX0FQHabP8iIkmnR3A.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxdS7xxY/620-c10tuc.png" group-title="TUCUMAN", CANAL 10 TUCUMAN
+https://corsproxy.io/?http://heroem3u.epizy.com/embed/10tucuman.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Hk5LMCv4/626-El-ocho-TV.png" group-title="TUCUMAN", EL OCHO TUCUMAN
 https://ythls.onrender.com/channel/UCYozHHDnLnQs2yc2k3t8cPA.m3u8
