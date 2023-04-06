@@ -18,8 +18,9 @@ https://videostream.shockmedia.com.ar:19360/fmlapoderosaavellaneda01/fmlapoderos
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/83552d3fde11360055725a8d478f3c53.png" group-title="FUTBOL ARG", CIUDAD MAGICA TV  
 https://videosenlared.fullstreaming.ar:3501/live/grupocitylive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.paste.pics/0e7402074c5a0c79729347bccca02e75.png" group-title="FUTBOL ARG", CMT
-https://stream-linkyprojects.linky.com.co/hls/cmt.m3u8
+#EXTINF:-1 tvg-logo="https://tribunoweb.com.ar/wp-content/uploads/2021/05/pluto-tv-telefe-tvlaint.jpg" group-title="FUTBOL ARG", TELEFE DEPORTES
+https://stitcher.pluto.tv/stitch/hls/channel/638df7f42b4fea0007f8af98livestitch/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=847de5e0-a85c-11ed-a617-56aedc2a3c0a
+
 
 
 
