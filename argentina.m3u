@@ -411,7 +411,7 @@ https://cotesma02.cdn.rcs.net.ar/mnp/cinear/output.mpd
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", History 
 https://cotesma02.cdn.rcs.net.ar/mnp/history/output.mpd
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", History 2
-http://tvstarlife.com:25461/live/geovany/geovany/157.m3u8
+http://tvstarlife.com:25461/live/geovany/geovany/172.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", Discovery 
 https://cotesma02.cdn.rcs.net.ar/mnp/discovery/output.mpd
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", Isat
@@ -436,9 +436,6 @@ https://cotesma02.cdn.rcs.net.ar/mnp/hbopop/output.mpd
 https://cotesma02.cdn.rcs.net.ar/mnp/htv/output.mpd
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", MTV 
 https://cotesma02.cdn.rcs.net.ar/mnp/mtv/output.mpd
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", Golf
-https://cotesma02.cdn.rcs.net.ar/mnp/golf/output.mpd
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", El Gourmet 
 https://cotesma02.cdn.rcs.net.ar/mnp/gourmet/output.mpd
 
