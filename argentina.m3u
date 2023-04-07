@@ -35,10 +35,13 @@ https://stitcher.pluto.tv/stitch/hls/channel/638df7f42b4fea0007f8af98/master.m3u
 https://prepublish.f.qaotic.net/a07/americahls-100056/Playlist.m3u8
 
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/AMERICA.png" group-title="NACIONALES", AMERICA HD  36.1 OPCION 2
-http://tvstarlife.com:25461/live/geovany/geovany/319.m3u8
+https://cotesma02.cdn.rcs.net.ar/mnp/america/output.mpd
 
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/AMERICA.png" group-title="NACIONALES", AMERICA HD  36.1 OPCION 3
 https://github.com/mortal251/archivos_m3u8/raw/main/america_hls.m3u8
+
+
+
 
 
 
@@ -54,6 +57,9 @@ https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-id="ElNueve.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_9.jpg" group-title="NACIONALES", CANAL 9  35.1 OPCION 2
 https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/live/channel09/live.isml/.m3u8
+
+#EXTINF:-1 tvg-id="ElNueve.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_9.jpg" group-title="NACIONALES", CANAL 9  35.1 OPCION 2
+https://cotesma02.cdn.rcs.net.ar/mnp/elnueve/output.mpd
 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/telefe.jpg" group-title="NACIONALES", TELEFE  34.1
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8   
@@ -358,12 +364,8 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", 22
-https://is-frontera.cdn.rcs.net.ar/mnp/tntsports/output.mpd
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", el nueve
-https://cotesma02.cdn.rcs.net.ar/mnp/elnueve/output.mpd
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", america
-https://cotesma02.cdn.rcs.net.ar/mnp/america/output.mpd
+
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", MasChic
 https://cotesma02.cdn.rcs.net.ar/mnp/maschic/output.mpd 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", TruTV 
