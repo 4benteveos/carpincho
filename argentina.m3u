@@ -21,7 +21,8 @@ https://videosenlared.fullstreaming.ar:3501/live/grupocitylive.m3u8
 #EXTINF:-1 tvg-logo="https://tribunoweb.com.ar/wp-content/uploads/2021/05/pluto-tv-telefe-tvlaint.jpg" group-title="FUTBOL ARG", TELEFE DEPORTES
 https://stitcher.pluto.tv/stitch/hls/channel/638df7f42b4fea0007f8af98/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=847de5e0-a85c-11ed-a617-56aedc2a3c0a
 
-
+#EXTINF:-1 tvg-logo="https://ssiptvarg.weebly.com/uploads/1/3/9/6/139612966/311523_2.png" group-title="FUTBOL ARG", Telecarpincho Sports
+https://cotesma02.cdn.rcs.net.ar/mnp/tntsports/output.mpd
 
 
 
@@ -53,7 +54,8 @@ https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8   
 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/telefe.jpg" group-title="NACIONALES", TELEFE  34.1 OPCION 2
-https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
+https://cotesma02.cdn.rcs.net.ar/mnp/telefe/output.mpd
+
 
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_13.jpg" group-title="NACIONALES", CANAL 13  33.1 OPCION 2
 https://livetrx01.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
@@ -351,23 +353,20 @@ https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", Telefe
-https://cotesma02.cdn.rcs.net.ar/mnp/telefe/output.mpd
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", MasChic
 https://cotesma02.cdn.rcs.net.ar/mnp/maschic/output.mpd
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", TruTV 
 https://cotesma02.cdn.rcs.net.ar/mnp/trutv/output.mpd
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", Disney Channel 
 https://cotesma02.cdn.rcs.net.ar/mnp/disney/output.mpd
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", Disney XD 
-https://cotesma02.cdn.rcs.net.ar/mnp/disneyxd/output.mpd
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", Disney Junior 
 https://cotesma02.cdn.rcs.net.ar/mnp/disneyjr/output.mpd
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", Nick 
 https://cotesma02.cdn.rcs.net.ar/mnp/nickelodeon/output.mpd
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", Nick Jr 
 https://cotesma02.cdn.rcs.net.ar/mnp/nickjr/output.mpd
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO",Tooncast 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", Tooncast 
 https://cotesma02.cdn.rcs.net.ar/mnp/tooncast/output.mpd
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", Baby TV 
 https://cotesma02.cdn.rcs.net.ar/mnp/babytv/output.mpd
@@ -379,9 +378,9 @@ https://cotesma02.cdn.rcs.net.ar/mnp/ae/output.mpd
 https://cotesma02.cdn.rcs.net.ar/mnp/cinemax/output.mpd
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", Cinecanal 
 https://cotesma02.cdn.rcs.net.ar/mnp/cinecanal/output.mpd
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO",TNT 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", TNT 
 https://cotesma02.cdn.rcs.net.ar/mnp/tnt/output.mpd
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO",TNT Series 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", TNT Series 
 https://cotesma02.cdn.rcs.net.ar/mnp/tntseries/output.mpd
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", AXN
 https://cotesma02.cdn.rcs.net.ar/mnp/axn/output.mpd
@@ -391,8 +390,6 @@ https://cotesma02.cdn.rcs.net.ar/mnp/amc/output.mpd
 https://cotesma02.cdn.rcs.net.ar/mnp/syfy/output.mpd
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", FX
 https://cotesma02.cdn.rcs.net.ar/mnp/fx/output.mpd
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", FXM
-https://cotesma02.cdn.rcs.net.ar/mnp/fxm/output.mpd
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", Space
 https://cotesma02.cdn.rcs.net.ar/mnp/space/output.mpd
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", Paramount Network 
@@ -412,7 +409,7 @@ https://cotesma02.cdn.rcs.net.ar/mnp/cinear/output.mpd
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", History 
 https://cotesma02.cdn.rcs.net.ar/mnp/history/output.mpd
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", History 2
-https://cotesma02.cdn.rcs.net.ar/mnp/h2/output.mpd
+http://tvstarlife.com:25461/live/geovany/geovany/157.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", Discovery 
 https://cotesma02.cdn.rcs.net.ar/mnp/discovery/output.mpd
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", Isat
@@ -437,8 +434,7 @@ https://cotesma02.cdn.rcs.net.ar/mnp/hbopop/output.mpd
 https://cotesma02.cdn.rcs.net.ar/mnp/htv/output.mpd
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", MTV 
 https://cotesma02.cdn.rcs.net.ar/mnp/mtv/output.mpd
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", TNT Sport
-https://cotesma02.cdn.rcs.net.ar/mnp/tntsports/output.mpd
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", Golf
 https://cotesma02.cdn.rcs.net.ar/mnp/golf/output.mpd
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", El Gourmet 
