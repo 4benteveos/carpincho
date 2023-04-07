@@ -40,6 +40,9 @@ http://tvstarlife.com:25461/live/geovany/geovany/319.m3u8
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/AMERICA.png" group-title="NACIONALES", AMERICA HD  36.1 OPCION 3
 https://github.com/mortal251/archivos_m3u8/raw/main/america_hls.m3u8
 
+
+
+
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/TV_PUBLICA.jpg" group-title="NACIONALES", TV PUBLICA  
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
 
@@ -66,6 +69,8 @@ https://livetrx01.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_13.jpg" group-title="NACIONALES", CANAL 13  33.1 OPCION 2
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_13.jpg" group-title="NACIONALES", CANAL 13  33.1 OPCION 2
+https://cotesma02.cdn.rcs.net.ar/mnp/el13/output.mpd
 
 #EXTINF:-1 tvg-id="NetTV.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/NET_TV.jpg" group-title="NACIONALES", NET TV 27.2
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
@@ -353,9 +358,12 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
 
-
-
-
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", tv publica
+https://cotesma02.cdn.rcs.net.ar/mnp/tvpublica/output.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", el nueve
+https://cotesma02.cdn.rcs.net.ar/mnp/elnueve/output.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", america
+https://cotesma02.cdn.rcs.net.ar/mnp/america/output.mpd
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", MasChic
 https://cotesma02.cdn.rcs.net.ar/mnp/maschic/output.mpd 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", TruTV 
